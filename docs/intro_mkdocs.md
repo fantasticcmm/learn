@@ -1,4 +1,4 @@
-# GitHub Pages + GitHub Action + Mkdocs/Mkdocs Material打造最炫酷的个人博客
+# GitHub Pages打造炫酷的个人博客
 
 个人博客选择GitHub Pages是方便，适合程序猿，编写MD文件push触发Action完成编译，10秒刷新页面博客就更新了。Mkdocs/Mkdocs Material比较大方美观，是Google推行的Material Design样式。
 
@@ -78,3 +78,5 @@
 ![](https://img.alicdn.com/imgextra/i3/O1CN01P99uR11VfwWvn9T0W_!!6000000002681-2-tps-2482-1252.png)
 
 另外，上传代码后触发部署，看下流水线的效果，啧啧，方便。
+
+![](https://img.alicdn.com/imgextra/i4/O1CN01LSx55a1wHClOQmJhV_!!6000000006282-2-tps-2784-1056.png)
