@@ -74,7 +74,7 @@
 
 ![](https://img.alicdn.com/imgextra/i4/O1CN01OuP68R1PhsVegPZqL_!!6000000001873-2-tps-1480-580.png)
 
-## 看效果，就是这片文
+## 看效果
 ![](https://img.alicdn.com/imgextra/i3/O1CN01P99uR11VfwWvn9T0W_!!6000000002681-2-tps-2482-1252.png)
 
 另外，上传代码后触发部署，看下流水线的效果，啧啧，方便。
